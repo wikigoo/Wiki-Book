@@ -1,4 +1,5 @@
-# **Introduction to Digital Media \+ Media Convergence** {#introduction-to-digital-media-+-media-convergence}
+# **Introduction to Digital Media \+ Media Convergence**
+{#introduction-to-digital-media-+-media-convergence}
 
 **Table of Contents**
 
